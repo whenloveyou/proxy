@@ -35,6 +35,6 @@ android {
 }
 
 dependencies {
-   // implementation 'com.github.flappygod:ProxyVideoServer:2.0'
-    implementation files('libs/proxyserver.jar')
+    implementation 'com.github.whenloveyou:proxyserver:1.0'
+
 }
