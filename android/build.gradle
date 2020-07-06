@@ -35,6 +35,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.whenloveyou:proxyserver:1.0'
-
+    implementation 'com.github.whenloveyou:proxyserver:1.1'
 }
